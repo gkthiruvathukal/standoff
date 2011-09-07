@@ -1,0 +1,3 @@
+This code is borrowed and adapted from bpbio. I couldn't figure out 
+how to use this as a standalone library and only need this code for
+the standoff markup scheme.
